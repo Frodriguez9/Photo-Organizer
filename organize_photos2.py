@@ -62,3 +62,6 @@ rmdir ./Brooklyn; mv ./Cancun/*.jpg .; rmdir ./Cancun; mv ./Firenze/*.jpg .;
  rmdir ./Firenze; mv ./Kyoto/*.jpg .; rmdir ./Kyoto; mv ./Oahu/*.jpg .;
  rmdir ./Oahu; mv ./Scotland/*.jpg .; rmdir ./Scotland; mv ./Yosemite/*.jpg .;
  rmdir ./Yosemite'''
+
+
+# Testing updates
