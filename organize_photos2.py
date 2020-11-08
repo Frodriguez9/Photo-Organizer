@@ -41,6 +41,7 @@ def move_files():
                 continue
 
 
+                
 def organize_photos(directory):
     os.chdir(directory)
     global originals
@@ -59,6 +60,6 @@ as it was before running this program (cd to the Photos directory)
 
 $ mv ./Berlin/*.jpg .; rmdir ./Berlin; mv ./Brooklyn/*.jpg .;
 rmdir ./Brooklyn; mv ./Cancun/*.jpg .; rmdir ./Cancun; mv ./Firenze/*.jpg .;
- rmdir ./Firenze; mv ./Kyoto/*.jpg .; rmdir ./Kyoto; mv ./Oahu/*.jpg .;
- rmdir ./Oahu; mv ./Scotland/*.jpg .; rmdir ./Scotland; mv ./Yosemite/*.jpg .;
- rmdir ./Yosemite'''
+rmdir ./Firenze; mv ./Kyoto/*.jpg .; rmdir ./Kyoto; mv ./Oahu/*.jpg .;
+rmdir ./Oahu; mv ./Scotland/*.jpg .; rmdir ./Scotland; mv ./Yosemite/*.jpg .;
+rmdir ./Yosemite'''
