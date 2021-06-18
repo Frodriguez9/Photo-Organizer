@@ -1,9 +1,9 @@
 # photo-organizer
 
-A program that organizes photos by their location title
+A desktop program that organizes photos by their location title using regular expresions
 
 ## The purpose of the program is to:
-	•	Show my ability to use the os and sys modules in Python 
+	•	Show my ability to use the os and sys modules in Python
 	•	Make a cool, functional program ! XD 
 
 ## Disclosure:
